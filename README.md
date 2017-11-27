@@ -1,4 +1,4 @@
-# sma-prj 
+# 2016-sma-prj 
 
 Here is a projet in C++. <br />
 We implemented the models of the boids of Reynolds. <br />
